@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Plawska
-- 👀 I’m interested in LARP
-- 🌱 I’m currently learning SQL AND Chinese
-- 💞️ I’m looking to collaborate on full-time job
+- 👀 I’m a lawyer trying to learn programming
+- 🌱 I’m currently learning SQL and Chinese Mandarin
+- 💞️ I’m looking for full-time job
 - 📫 How to reach me barbara.plawska@gmail.com
 
 <!---
