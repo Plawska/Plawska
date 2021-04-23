@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plawska
 - 👀 I’m a lawyer trying to learn programming
-- 🌱 I’m currently learning SQL and Chinese Mandarin
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking for full-time job
 - 📫 How to reach me https://www.linkedin.com/in/barbara-plawska/
 
